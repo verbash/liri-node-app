@@ -1,0 +1,1 @@
+command line node app - search Spotify, Bands in Town, OMDB
